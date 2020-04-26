@@ -1,0 +1,15 @@
+{
+    "name": "teste/composer",
+    "description": "criado para testar o composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "joyluiz63",
+            "email": "joyluiz63@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}

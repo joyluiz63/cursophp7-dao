@@ -1,0 +1,13 @@
+Dentro do diretorio do seu projeto , click em Git bash here
+1. composer init
+    1.1 informe o nome do seu projetp
+    1.2 informe a descrição do seu projeto
+    1.3 informe o autor (se ja detectou, so enter)
+    1.4 informe minimum stability -> se projeto novo = dev
+    1.5 informe package type (tipo do pacote) -> No caso project
+    1.6 informe a licença -> no caso só enter, deixa em branco
+    1.7 define your dependences -> no - enter
+    1.8 dependencias novamente -> no - enter
+    1.9 O composer cria o arquivo e pergunta se voce confirma -> yes - enter
+
+    DICA -> ver padrões de autoload em php-fig.org

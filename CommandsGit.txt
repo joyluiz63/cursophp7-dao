@@ -1,0 +1,16 @@
+Projeto novo
+1. Crie seu repositorio no site do github
+2. Copie a url 
+3. Dentro da pasta do novo projeto clica com o botão direito do mouse e seleciona git bash here
+4. digite: git init
+5. digite: git remote add origin (insert = aqui cole a url copiada)
+5. digite: git add --all
+7. git commit -m "aqui digita a alterção feita"
+8. digite: git push origin master
+
+
+Alterar projeto
+1. git add --all
+2. git commit -m "aqui digita a alterção feita"
+3. git pull origin master (somente se se seu projeto no pc estiver diferente do git)
+3. git push origin master
